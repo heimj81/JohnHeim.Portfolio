@@ -4,7 +4,6 @@ theme: minima
 header_pages:
   - portfolio.md
   - about.md
-  - resume.md
   - contact.md
 plugins:
   - jekyll-seo-tag

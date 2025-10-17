@@ -1,0 +1,11 @@
+title: "John Heim – Technical Writing Portfolio"
+description: "Selected work from CIS Technical Writing in CIS."
+theme: minima
+header_pages:
+  - portfolio.md
+  - about.md
+  - resume.md
+  - contact.md
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed

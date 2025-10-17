@@ -1,9 +1,10 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome!"
 ---
 
 # Technical Writing Portfolio
 
-I share selected writing samples from CIS coursework and security projects.  
-Start with the **[Portfolio](./portfolio)** or see my **[Résumé](./resume)**.
+Welcome to my technical writing portfolio. It features audience-focused work from the CIS program that emphasizes clear structure, plain language, and evidence-based analysis. The collection is most notably highlighted by my Unit 7 long research report and my Unit 4.2 slides, both on Tech Monopolies and Fair Competition. You will also find proposals and instructional pieces that apply visual design and APA-aligned sourcing.
+
+Click Here to view my **[Portfolio](./portfolio)** 
